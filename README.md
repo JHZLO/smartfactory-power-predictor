@@ -33,11 +33,15 @@
 |:-----:|:----:|:-----:|
 | ___Github___ | <a href="https://github.com/JHZLO"><img src="https://avatars.githubusercontent.com/u/105791673?v=4" width="64" height="64"></a> | <a href="https://github.com/ganyaaaaa"><img src="https://avatars.githubusercontent.com/u/141535219?v=4" width="64" height="64"></a> |
 
+<br>
+
 ### 2️⃣ 개요
 
 스마트 팩토리 전력 예측 AI 챌린지는 공장 설비에서 발생하는 시계열 전력 소비 데이터를 기반으로, 공장 전체의 전력 사용량을 예측하는 AI 모델을 개발하는 대회입니다.
 
 현실 산업 현장에서 수집된 센서 및 운영 로그 데이터를 활용하여, 시간에 따라 변화하는 에너지 사용 흐름을 분석하고 미래 소비량을 예측하는 것이 목표입니다. 이를 통해 참가자는 시계열 데이터의 패턴과 시간 의존성을 이해하고, 실질적인 에너지 최적화에 기여할 수 있는 AI 알고리즘을 설계하게 됩니다.
+
+<br>
 
 ### 3️⃣ EDA
 ![image](https://github.com/user-attachments/assets/514d4a9b-b643-413d-a605-57d2261b8be3)
@@ -46,10 +50,13 @@
 ![image](https://github.com/user-attachments/assets/17299791-de3f-4f9a-9afe-a5b16f60e244)
 ![image](https://github.com/user-attachments/assets/6e5634fb-3478-44e0-b418-5b52e3b7aa69)
 
+<br>
+
 ### 4️⃣ 데이터 전처리
 ![image](https://github.com/user-attachments/assets/2ec85198-7623-4fd3-a249-80190c9f5110)
 ![image](https://github.com/user-attachments/assets/9f7806f3-1428-4b05-8188-198a0e53bd66)
 
+<br>
 
 ### 5️⃣ 모델 학습
 ![image](https://github.com/user-attachments/assets/a35b0c8a-a6ce-4f43-a0c4-c9e30a9e3708)
@@ -58,6 +65,7 @@
 ![image](https://github.com/user-attachments/assets/50498aca-db3e-4401-9f16-52ae5979c5fa)
 ![image](https://github.com/user-attachments/assets/6871cc42-2bab-4570-b241-39095be6d375)
 
+<br>
 
 ### 6️⃣ 성능 향상
 ![image](https://github.com/user-attachments/assets/515d42e3-d4c4-446f-8df9-505dcffade36)
