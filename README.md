@@ -6,10 +6,14 @@
   </p>
 </div>
 
+<br>
+
 ## 👑 결과
 | public score - `2위` | private score - `공동 3위` | 최종 평가 - `우수상` |
 |:--------------------:|:---------------------------:|:---------------------:|
 | ![public](https://github.com/user-attachments/assets/c500f2ed-1a6f-4adb-9b4c-1972e6207cc2) | ![private](https://github.com/user-attachments/assets/f053baed-b61a-4d07-8913-4e50d32d3e59) | ![final](https://github.com/user-attachments/assets/d661e6e4-a2bc-461d-a35a-035b5d970860) |
+
+<br>
 
 ## 📜 목차
 
@@ -21,6 +25,8 @@
 | 4 | 데이터 전처리 |
 | 5 | 모델 학습 |
 | 6 | 성능 향상 |
+
+<br>
 
 ### 1️⃣ 팀원 소개
 | _이름_ | 김준형 | 김가은 |
