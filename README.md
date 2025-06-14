@@ -2,7 +2,7 @@
   <h1>⚡ Smartfactory Power Predictor ⚡</h1>
   <p>
     <strong>Kaggle, 2025 단국대학교 데이터 사이언스 경진대회</strong><br>
-    <strong>🚀<a href="https://vata-fe.vercel.app/" target="_blank">kaggle 바로가기</a></strong>
+    <strong>🚀<a href="https://www.kaggle.com/competitions/dku-data-science" target="_blank">kaggle 바로가기</a></strong>
   </p>
 </div>
 
